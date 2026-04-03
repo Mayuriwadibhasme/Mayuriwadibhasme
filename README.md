@@ -35,19 +35,10 @@ Passionate about Git workflows, Java modularization, and operating system concep
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mayuriwadibhasme&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayuriwadibhasme&theme=radical&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayuriwadibhasme&theme=radical&hide_border=false&layout=compact" />
 </p>
 
 ---
 
 # ✍️ Quote
 _"Professionalism is clarity, and clarity is impact."_  
-
----
-
-# 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Mayuriwadibhasme&limit=5&theme=radical&combine_all_yearly_contributions=true" />
-</p>
