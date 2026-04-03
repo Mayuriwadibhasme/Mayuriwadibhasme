@@ -48,9 +48,6 @@ _"Professionalism is clarity, and clarity is impact."_
 ---
 
 # 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mayuriwadibhasme&limit=5&theme=radical&combine_all_yearly_contributions=true)  
-
----
-
-# 📈 GitHub Activity Graph
-[![Mayuri's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mayuriwadibhasme&theme=radical)](https://github.com/Mayuriwadibhasme)
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Mayuriwadibhasme&limit=5&theme=radical&combine_all_yearly_contributions=true" />
+</p>
